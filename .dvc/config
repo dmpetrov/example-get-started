@@ -1,4 +1,4 @@
 [core]
-    remote = storage
-['remote "storage"']
-    url = https://remote.dvc.org/get-started
+    remote = mys3
+['remote "mys3"']
+    url = s3://dmpetrov/get-started
